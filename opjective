@@ -1,0 +1,10 @@
+The objective is to create a tool that helps TPMs and Pre-sales team for generating network Traffic Matrix based on any criteria they need
+Here there is a pain where always when doing such activity ; its  consumed too much time and mainly we chooses one of the juniors to do such activity
+I have created tool based on two phases ,
+First phase ;the core code to be very simple ,and the final script to be working on any windows machine
+Second phase ; I have adopted the code to be based on sequential functions ( clean code ) , so that I can be easily amendment it and enhance it for new features
+Future enhancement , ( we can work together – if its okay for you – to enhance the current version and make it ready for generic business use
+First room of enhancement is to make version ready for Linux so that it can be used in WS-NOC to generate the TM , also might communication through API is needed
+Second room of enhancement is to add some AI feature to visualise the TM data , giving more understanding features and might be some suggestion for future expansion
+Third room ; Adding extra filtration options which can help  in builds a generic tool  
+4th enhancement : Comparison between various TM versions
